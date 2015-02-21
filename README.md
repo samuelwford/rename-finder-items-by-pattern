@@ -1,9 +1,4 @@
-Rename Finder Items by Pattern
-------------------------------
-
-Version 0.1
-Samuel Ford
-http://www.causticmango.com/
+# Rename Finder Items by Pattern
 
 An action for Mac OS X Automator, version 10.6. To install, just 
 double-click.

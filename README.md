@@ -27,3 +27,8 @@ pattern like so:
 
 So, this replacement pattern: `Type $4 Section $3 Bldg $2 in Region $1`
 Give this result: `Type d Section 123 Bldg xyz in Region abc`
+
+### Acknowledgements
+
+Thanks to Daniel Calcoen for the tweaks to the Xcode project! Now builds
+and runs in the latest Xcode and OS X.

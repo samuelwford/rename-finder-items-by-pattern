@@ -30,7 +30,7 @@
 		<key>AMDInput</key>
 		<string></string>
 		<key>AMDNote</key>
-		<string>In the replacement pattern, use a &apos;$&apos; and a number to substitute each wildcard match sequentionally (e.g. &quot;foo-*-*&quot; has two wildcards that can be used in the replacement pattern as &quot;$1.bar.$2&quot;).</string>
+		<string>In the replacement pattern, use a '$' and a number to substitute each wildcard match sequentionally (e.g. "foo-*-*" has two wildcards that can be used in the replacement pattern as "$1.bar.$2").</string>
 		<key>AMDOptions</key>
 		<string></string>
 		<key>AMDRequires</key>
@@ -66,7 +66,7 @@
 		<key>ApplyButton</key>
 		<string>Add</string>
 		<key>IgnoreButton</key>
-		<string>Don&apos;t Add</string>
+		<string>Don't Add</string>
 		<key>Level</key>
 		<integer>2</integer>
 		<key>Message</key>
@@ -81,7 +81,7 @@
 	<key>CFBundleIconFile</key>
 	<string></string>
 	<key>CFBundleIdentifier</key>
-	<string>com.CausticMango.Automator.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
